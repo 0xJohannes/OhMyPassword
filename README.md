@@ -6,4 +6,4 @@ Secure password generation tool.
 pip install -r requirements.txt
 
 # Usage
-python index.py
+python OhMyPassword.py
