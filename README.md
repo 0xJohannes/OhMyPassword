@@ -6,4 +6,4 @@ Secure password generation tool with bruteforce protection.
 sudo pip install ohmypassword
 
 # Usage
-just type ohmypassword in cmd and input the prefered values.
+just type ohmypassword in command-line and input the prefered values.
