@@ -1,9 +1,9 @@
 # OhMyPassword
-Secure password generation tool.
+Secure password generation tool with bruteforce protection.
 
 
 # Installation
-pip install -r requirements.txt
+sudo pip install ohmypassword
 
 # Usage
-python OhMyPassword.py
+just type ohmypassword in cmd and input the prefered values.
